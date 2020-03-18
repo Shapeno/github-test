@@ -6,3 +6,4 @@ void wtf(int b)
   return b++;
 }
 #endif
+#test
